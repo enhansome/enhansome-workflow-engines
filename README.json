@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+            "homepage": "https://n8n.io",
             "id": 193215554,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:52:05Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:02:59Z",
+            "open_issues": 1117,
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 202703
+            "stars": 202732,
+            "topics": [
+              "ai",
+              "apis",
+              "automation",
+              "cli",
+              "data-flow",
+              "development",
+              "integration-framework",
+              "integrations",
+              "ipaas",
+              "low-code",
+              "low-code-platform",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "n8n",
+              "no-code",
+              "self-hosted",
+              "typescript",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -26,12 +52,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+            "homepage": null,
             "id": 8681349,
             "language": "Ruby",
-            "last_commit": "2026-08-28T02:43:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:43:12Z",
+            "open_issues": 697,
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49862
+            "stars": 49864,
+            "topics": [
+              "agent",
+              "automation",
+              "feed",
+              "feedgenerator",
+              "huginn",
+              "monitoring",
+              "notifications",
+              "rss",
+              "scraper",
+              "twitter",
+              "twitter-streaming",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -42,12 +86,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "homepage": "https://airflow.apache.org/",
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-28T19:24:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:03:00Z",
+            "open_issues": 1982,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46630
+            "stars": 46630,
+            "topics": [
+              "airflow",
+              "apache",
+              "apache-airflow",
+              "automation",
+              "dag",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "elt",
+              "etl",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-engine",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -58,12 +128,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
+            "homepage": "https://docs.conductor-oss.org/",
             "id": 728981719,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:32:58Z",
+            "open_issues": 255,
             "owner": "conductor-oss",
             "repo": "conductor",
-            "stars": 32143
+            "stars": 32145,
+            "topics": [
+              "distributed-systems",
+              "durable-execution",
+              "grpc",
+              "java",
+              "javascript",
+              "microservice-orchestration",
+              "orchestration-engine",
+              "orchestrator",
+              "reactjs",
+              "spring-boot",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -74,12 +164,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+            "homepage": "https://go.kestra.io/home",
             "id": 204164353,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:05:52Z",
+            "open_issues": 676,
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 27945
+            "stars": 27946,
+            "topics": [
+              "ai-agents",
+              "automation",
+              "control-plane",
+              "data-engineering",
+              "data-orchestration",
+              "data-orchestrator",
+              "devops",
+              "etl",
+              "hacktoberfest",
+              "high-availability",
+              "infra-automation",
+              "infra-ops",
+              "infrastructure-as-code",
+              "java",
+              "low-code",
+              "orchestration",
+              "pipeline",
+              "pipeline-as-code",
+              "scheduler",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -90,12 +206,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+            "homepage": "https://dapr.io",
             "id": 192632000,
             "language": "Go",
-            "last_commit": "2026-08-28T19:32:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:57:00Z",
+            "open_issues": 438,
             "owner": "dapr",
             "repo": "dapr",
-            "stars": 26042
+            "stars": 26041,
+            "topics": [
+              "containers",
+              "event-driven",
+              "kubernetes",
+              "microservice",
+              "microservices",
+              "pubsub",
+              "serverless",
+              "sidecar",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -106,12 +237,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+            "homepage": "https://www.activepieces.com",
             "id": 573661753,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:11:53Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:40:53Z",
+            "open_issues": 510,
             "owner": "activepieces",
             "repo": "activepieces",
-            "stars": 24077
+            "stars": 24081,
+            "topics": [
+              "ai-agent",
+              "ai-agent-tools",
+              "ai-agents",
+              "ai-agents-framework",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "mcps",
+              "n8n-alternative",
+              "no-code-automation",
+              "workflow",
+              "workflow-automation",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -122,12 +272,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+            "homepage": "https://prefect.io",
             "id": 139199684,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:46:43Z",
+            "open_issues": 861,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23707
+            "stars": 23712,
+            "topics": [
+              "automation",
+              "data",
+              "data-engineering",
+              "data-ops",
+              "data-science",
+              "infrastructure",
+              "ml-ops",
+              "observability",
+              "orchestration",
+              "pipeline",
+              "prefect",
+              "python",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -138,12 +308,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-code programming for event-driven applications",
+            "homepage": "http://nodered.org",
             "id": 12618379,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T08:26:32Z",
+            "open_issues": 324,
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23595
+            "stars": 23596,
+            "topics": [
+              "flow-based-programming",
+              "javascript",
+              "low-code",
+              "node-red",
+              "openjs-foundation",
+              "visual-programming"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -154,12 +336,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal service",
+            "homepage": "https://docs.temporal.io",
             "id": 215654064,
             "language": "Go",
-            "last_commit": "2026-08-28T19:35:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:45:54Z",
+            "open_issues": 929,
             "owner": "temporalio",
             "repo": "temporal",
-            "stars": 22585
+            "stars": 22593,
+            "topics": [
+              "cronjob-scheduler",
+              "distributed-cron",
+              "distributed-systems",
+              "durable-execution",
+              "golang",
+              "microservice-framework",
+              "microservice-orchestration",
+              "microservices-architecture",
+              "orchestrator",
+              "service-bus",
+              "service-fabric",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management",
+              "workflow-management-system",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -170,12 +374,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+            "homepage": "https://windmill.dev",
             "id": 488804911,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:17:28Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:01:26Z",
+            "open_issues": 832,
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 17709
+            "stars": 17713,
+            "topics": [
+              "low-code",
+              "open-source",
+              "platform",
+              "postgresql",
+              "python",
+              "self-hostable",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -186,12 +403,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow Engine for Kubernetes",
+            "homepage": "https://argo-workflows.readthedocs.io/",
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-28T17:28:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:33:55Z",
+            "open_issues": 1254,
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16945
+            "stars": 16945,
+            "topics": [
+              "airflow",
+              "argo",
+              "argo-workflows",
+              "batch-processing",
+              "cloud-native",
+              "cncf",
+              "dag",
+              "data-engineering",
+              "gitops",
+              "hacktoberfest",
+              "k8s",
+              "knative",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "pipelines",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -202,12 +443,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "homepage": "https://dagster.io",
             "id": 131619646,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:14:34Z",
+            "open_issues": 2586,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16070
+            "stars": 16072,
+            "topics": [
+              "analytics",
+              "dagster",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "etl",
+              "metadata",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -218,12 +480,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+            "homepage": "https://dolphinscheduler.apache.org/",
             "id": 173335706,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:58:09Z",
+            "open_issues": 144,
             "owner": "apache",
             "repo": "dolphinscheduler",
-            "stars": 14454
+            "stars": 14454,
+            "topics": [
+              "airflow",
+              "azkaban",
+              "cloud-native",
+              "data-pipelines",
+              "job-scheduler",
+              "orchestration",
+              "powerful-data-pipelines",
+              "task-scheduler",
+              "workflow",
+              "workflow-orchestration",
+              "workflow-schedule"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -234,12 +513,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build, Manage and Deploy AI/ML Systems",
+            "homepage": "https://metaflow.org",
             "id": 209120637,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:02:13Z",
+            "open_issues": 488,
             "owner": "Netflix",
             "repo": "metaflow",
-            "stars": 10250
+            "stars": 10250,
+            "topics": [
+              "agents",
+              "ai",
+              "aws",
+              "azure",
+              "cost-optimization",
+              "datascience",
+              "distributed-training",
+              "gcp",
+              "generative-ai",
+              "high-performance-computing",
+              "kubernetes",
+              "llm",
+              "llmops",
+              "machine-learning",
+              "ml",
+              "ml-infrastructure",
+              "ml-platform",
+              "mlops",
+              "model-management",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -250,12 +555,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+            "homepage": "https://cadenceworkflow.io",
             "id": 82700090,
             "language": "Go",
-            "last_commit": "2026-08-28T18:47:19Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:55:26Z",
+            "open_issues": 201,
             "owner": "cadence-workflow",
             "repo": "cadence",
-            "stars": 9422
+            "stars": 9423,
+            "topics": [
+              "cadence",
+              "distributed-systems",
+              "golang",
+              "java",
+              "orchestration-engine",
+              "service-bus",
+              "service-fabric",
+              "services-platform",
+              "uber",
+              "workflow-automation",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -266,12 +588,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Workflow Engine for .NET",
+            "homepage": "https://www.elsaworkflows.io",
             "id": 151148482,
             "language": "C#",
-            "last_commit": "2026-08-28T02:09:43Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:32:57Z",
+            "open_issues": 781,
             "owner": "elsa-workflows",
             "repo": "elsa-core",
-            "stars": 7870
+            "stars": 7870,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "elsa",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -282,12 +614,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Application Framework for .NET",
+            "homepage": "https://masstransit.io",
             "id": 778828,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-04T18:06:31Z",
+            "open_issues": 1,
             "owner": "MassTransit",
             "repo": "MassTransit",
-            "stars": 7798
+            "stars": 7798,
+            "topics": [
+              "azure-service-bus",
+              "c-sharp",
+              "dotnet",
+              "masstransit",
+              "messaging",
+              "nuget",
+              "rabbitmq",
+              "sqs"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -298,12 +644,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
+            "homepage": "https://flyte.org",
             "id": 216628419,
             "language": "Go",
-            "last_commit": "2026-08-28T02:38:42Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:00:10Z",
+            "open_issues": 166,
             "owner": "flyteorg",
             "repo": "flyte",
-            "stars": 7302
+            "stars": 7307,
+            "topics": [
+              "agentic",
+              "ai-agents",
+              "ai-development-tools",
+              "data-analysis",
+              "data-science",
+              "declarative",
+              "fine-tuning",
+              "flyte",
+              "golang",
+              "grpc",
+              "hacktoberfest",
+              "kubernetes",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "orchestration-engine",
+              "production",
+              "python",
+              "scale",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -314,12 +686,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StackStorm (aka \"IFTTT for Ops\") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html",
+            "homepage": "https://stackstorm.com/",
             "id": 19051806,
             "language": "Python",
-            "last_commit": "2026-08-28T16:37:05Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:26:34Z",
+            "open_issues": 602,
             "owner": "StackStorm",
             "repo": "st2",
-            "stars": 6527
+            "stars": 6526,
+            "topics": [
+              "auto-remediation",
+              "automation",
+              "chatops",
+              "cicd",
+              "deployment",
+              "devops",
+              "ifttt",
+              "python",
+              "sre",
+              "st2",
+              "stackstorm",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -330,12 +720,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
+            "homepage": "http://rundeck.org",
             "id": 886774,
             "language": "Groovy",
-            "last_commit": "2026-08-28T19:25:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:35:45Z",
+            "open_issues": 64,
             "owner": "rundeck",
             "repo": "rundeck",
-            "stars": 6280
+            "stars": 6280,
+            "topics": [
+              "ansible",
+              "audit",
+              "automation",
+              "category-distributed",
+              "deployment",
+              "devops",
+              "devops-team",
+              "devops-tools",
+              "hacktoberfest",
+              "java",
+              "operations",
+              "ops",
+              "orchestration",
+              "runbook",
+              "rundeck",
+              "scheduler",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -346,12 +759,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+            "homepage": "https://www.inngest.com/docs",
             "id": 374763231,
             "language": "Go",
-            "last_commit": "2026-08-28T18:45:39Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:07:43Z",
+            "open_issues": 229,
             "owner": "inngest",
             "repo": "inngest",
-            "stars": 5772
+            "stars": 5774,
+            "topics": [
+              "cli",
+              "event-driven",
+              "event-driven-architecture",
+              "queues",
+              "serverless",
+              "serverless-functions",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -362,12 +789,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and reliable background jobs in Go",
+            "homepage": "https://riverqueue.com",
             "id": 716228772,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-27T02:59:46Z",
+            "open_issues": 57,
             "owner": "riverqueue",
             "repo": "river",
-            "stars": 5610
+            "stars": 5610,
+            "topics": [
+              "background-jobs",
+              "go",
+              "golang",
+              "postgres",
+              "postgresql",
+              "queue"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -378,12 +817,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The simple, stupid rules engine for Java",
+            "homepage": "https://github.com/j-easy/easy-rules/wiki",
             "id": 8686380,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-05-29T20:13:50Z",
+            "open_issues": 89,
             "owner": "j-easy",
             "repo": "easy-rules",
-            "stars": 5257
+            "stars": 5257,
+            "topics": [
+              "business-rules",
+              "expression-language",
+              "java",
+              "rule-engine",
+              "rules-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -394,12 +844,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+            "homepage": "https://ovh.github.io/cds/",
             "id": 70572539,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T14:21:42Z",
+            "open_issues": 159,
             "owner": "ovh",
             "repo": "cds",
-            "stars": 4837
+            "stars": 4837,
+            "topics": [
+              "automation",
+              "continuous-delivery",
+              "continuous-deployment",
+              "continuous-integration",
+              "devops",
+              "devops-workflow",
+              "golang",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -410,12 +874,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azkaban workflow manager.",
+            "homepage": "https://azkaban.github.io",
             "id": 6271421,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-03T06:07:59Z",
+            "open_issues": 801,
             "owner": "azkaban",
             "repo": "azkaban",
-            "stars": 4508
+            "stars": 4508,
+            "topics": [
+              "azkaban",
+              "hacktoberfest",
+              "scheduling",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -426,12 +900,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.",
+            "homepage": "https://docs.restate.dev",
             "id": 585196214,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:03:54Z",
+            "open_issues": 429,
             "owner": "restatedev",
             "repo": "restate",
-            "stars": 4346
+            "stars": 4348,
+            "topics": [
+              "async-await",
+              "cli",
+              "consistent-state",
+              "distributed-systems",
+              "durable-execution",
+              "event-driven",
+              "microservices",
+              "reliable-communication",
+              "serverless",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -442,12 +932,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Camunda 7 CE is End of Life (EoL). Please check out Camunda 8 instead (https://github.com/camunda/camunda) or read about Camunda 7 Enterprise End of Life (https://camunda.com/blog/2025/02/camunda-7-enterprise-end-of-life-extension/) – Camunda 7 CE was a flexible framework for workflow and decision automation using BPMN and DMN.",
+            "homepage": "https://camunda.com/",
             "id": 7420937,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T07:40:27Z",
+            "open_issues": 0,
             "owner": "camunda",
             "repo": "camunda-bpm-platform",
-            "stars": 4270
+            "stars": 4270,
+            "topics": [
+              "bpm",
+              "bpmn",
+              "camunda-bpm-platform",
+              "camunda-engine",
+              "cmmn",
+              "dmn",
+              "end-of-life",
+              "eol",
+              "java",
+              "process-engine",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -458,12 +965,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process Orchestration Framework",
+            "homepage": "https://camunda.com/platform/",
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-28T18:47:47Z",
+            "license": null,
+            "last_commit": "2026-08-29T03:04:50Z",
+            "open_issues": 2920,
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4256
+            "stars": 4256,
+            "topics": [
+              "bpmn",
+              "grpc",
+              "java",
+              "microservices",
+              "orchestration-framework",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -474,12 +994,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning Pipelines for Kubeflow",
+            "homepage": "https://www.kubeflow.org/docs/components/pipelines/",
             "id": 133100880,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:07:06Z",
+            "open_issues": 464,
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4196
+            "stars": 4196,
+            "topics": [
+              "data-science",
+              "kubeflow",
+              "kubeflow-pipelines",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -490,12 +1023,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
+            "homepage": "https://dagu.sh",
             "id": 484434975,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T16:29:22Z",
+            "open_issues": 68,
             "owner": "dagucloud",
             "repo": "dagu",
-            "stars": 3815
+            "stars": 3814,
+            "topics": [
+              "agentic-workflows",
+              "ai-agents",
+              "ai-workflows",
+              "airflow-alternative",
+              "cron",
+              "dag",
+              "data-pipeline",
+              "devops",
+              "durable-execution",
+              "human-in-the-loop",
+              "job-scheduler",
+              "llm",
+              "mcp",
+              "mcp-gateway",
+              "mcp-server",
+              "self-hosted",
+              "task-automation",
+              "workflow-engine",
+              "workflow-orchestration",
+              "workflow-scheduler"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -506,12 +1065,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A DSL for data-driven computational pipelines",
+            "homepage": "http://nextflow.io",
             "id": 9052236,
             "language": "Groovy",
-            "last_commit": "2026-08-28T17:26:24Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:21:25Z",
+            "open_issues": 437,
             "owner": "nextflow-io",
             "repo": "nextflow",
-            "stars": 3476
+            "stars": 3476,
+            "topics": [
+              "aws",
+              "bioinformatics",
+              "cloud",
+              "dataflow",
+              "docker",
+              "groovy",
+              "hello",
+              "hpc",
+              "nextflow",
+              "pipeline",
+              "pipeline-framework",
+              "reproducible-research",
+              "reproducible-science",
+              "sge",
+              "singularity",
+              "singularity-containers",
+              "slurm",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -522,12 +1105,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the development home of the workflow management system Snakemake. For general information, see",
+            "homepage": "https://snakemake.github.io",
             "id": 212840200,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:33:06Z",
+            "open_issues": 1091,
             "owner": "snakemake",
             "repo": "snakemake",
-            "stars": 2853
+            "stars": 2853,
+            "topics": [
+              "reproducibility",
+              "snakemake",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -538,12 +1130,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event-driven scripting for Kubernetes",
+            "homepage": "https://brigade.sh/",
             "id": 108049853,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-07T03:41:43Z",
+            "open_issues": 31,
             "owner": "brigadecore",
             "repo": "brigade",
-            "stars": 2416
+            "stars": 2416,
+            "topics": [
+              "cncf",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -554,12 +1154,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流",
+            "homepage": "http://www.chunel.cn",
             "id": 361735570,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-22T14:12:55Z",
+            "open_issues": 15,
             "owner": "ChunelFeng",
             "repo": "CGraph",
-            "stars": 2301
+            "stars": 2301,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "dag",
+              "graph",
+              "langgraph",
+              "pipeline",
+              "taskflow",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -570,12 +1184,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data intensive science for everyone.",
+            "homepage": "https://galaxyproject.org",
             "id": 31211061,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:14:37Z",
+            "open_issues": 2832,
             "owner": "galaxyproject",
             "repo": "galaxy",
-            "stars": 1841
+            "stars": 1841,
+            "topics": [
+              "bioinformatics",
+              "dna",
+              "genomics",
+              "hacktoberfest",
+              "ngs",
+              "pipeline",
+              "science",
+              "sequencing",
+              "usegalaxy",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -586,12 +1217,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data processing & ETL framework for Ruby",
+            "homepage": "https://www.kiba-etl.org",
             "id": 11515100,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-10T19:13:05Z",
+            "open_issues": 0,
             "owner": "thbar",
             "repo": "kiba",
-            "stars": 1775
+            "stars": 1775,
+            "topics": [
+              "data",
+              "etl",
+              "etl-ruby",
+              "ruby",
+              "rubydatascience"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -602,12 +1244,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋",
+            "homepage": null,
             "id": 219745882,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-29T09:22:24Z",
+            "open_issues": 88,
             "owner": "ovh",
             "repo": "utask",
-            "stars": 1396
+            "stars": 1396,
+            "topics": [
+              "angular8",
+              "automation",
+              "devops",
+              "devops-tools",
+              "go",
+              "golang",
+              "golang-application",
+              "hacktoberfest",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -618,12 +1277,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workload Automation System",
+            "homepage": "https://www.digdag.io/",
             "id": 42751387,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-30T13:27:18Z",
+            "open_issues": 145,
             "owner": "treasure-data",
             "repo": "digdag",
-            "stars": 1333
+            "stars": 1333,
+            "topics": [
+              "digdag"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -634,12 +1300,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core package for defining and running durable workflows and activities. Supports long-running persistent workflows, retries, queues, parallel execution, workflow monitoring, dedicated storage connections, and orchestration for microservices, data pipelines, sagas, agentic workflows, and other complex business processes.",
+            "homepage": "https://durable-workflow.com",
             "id": 463354076,
             "language": "PHP",
-            "last_commit": "2026-08-28T00:34:59Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:16:17Z",
+            "open_issues": 2,
             "owner": "durable-workflow",
             "repo": "workflow",
-            "stars": 1237
+            "stars": 1237,
+            "topics": [
+              "background-jobs",
+              "bpm",
+              "bpmn",
+              "durable-execution",
+              "durable-functions",
+              "durable-workflow",
+              "jobs",
+              "laravel",
+              "microservices",
+              "orchestration",
+              "php",
+              "queueing",
+              "saga-pattern",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -650,12 +1339,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+            "homepage": "http://cromwell.readthedocs.io/",
             "id": 34136406,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-04T14:32:07Z",
+            "open_issues": 813,
             "owner": "broadinstitute",
             "repo": "cromwell",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "application",
+              "bioinformatics",
+              "cloud",
+              "containers",
+              "docker",
+              "executor",
+              "ga4gh",
+              "hpc",
+              "scala",
+              "wdl",
+              "workflow",
+              "workflow-description-language",
+              "workflow-execution"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -666,12 +1374,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.",
+            "homepage": "https://www.bytechef.io",
             "id": 411912097,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:04:04Z",
+            "open_issues": 452,
             "owner": "bytechefhq",
             "repo": "bytechef",
-            "stars": 993
+            "stars": 993,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "api",
+              "automation",
+              "embedded-ipaas",
+              "hacktoberfest",
+              "integrations",
+              "ipaas",
+              "java",
+              "llm",
+              "low-code",
+              "mcp",
+              "n8n",
+              "no-code",
+              "self-hosted",
+              "typescript",
+              "workato",
+              "workflow",
+              "workflow-automation",
+              "zapier"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -682,12 +1416,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Cabloy is a Node.js fullstack framework for AI vibe coding. Bidirectional type sync, CLI-first workflows, docs, and skills.",
+            "homepage": "https://cabloy.com",
             "id": 117403675,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:25:30Z",
+            "open_issues": 0,
             "owner": "cabloy",
             "repo": "cabloy",
-            "stars": 970
+            "stars": 970,
+            "topics": [
+              "full-stack",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -698,12 +1440,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.",
+            "homepage": "https://couler-proj.github.io/couler/index.html",
             "id": 288523518,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-08T03:31:54Z",
+            "open_issues": 21,
             "owner": "couler-proj",
             "repo": "couler",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "apache-airflow",
+              "argo-workflows",
+              "cloud-native",
+              "distributed-computing",
+              "kubeflow",
+              "kubernetes",
+              "machine-learning",
+              "python",
+              "scheduler",
+              "tekton-pipelines",
+              "unified-api",
+              "unified-interface",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -714,12 +1477,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.",
+            "homepage": "https://titanoboa.io",
             "id": 132755236,
             "language": "Clojure",
+            "license": "AGPL-3.0",
             "last_commit": "2022-09-16T12:57:43Z",
+            "open_issues": 13,
             "owner": "commsor",
             "repo": "titanoboa",
-            "stars": 921
+            "stars": 921,
+            "topics": [
+              "big-data",
+              "distributed",
+              "distributed-systems",
+              "esb",
+              "integrations",
+              "ipaas",
+              "jvm",
+              "low-code",
+              "service-bus",
+              "titanoboa",
+              "workflow",
+              "workflow-engine",
+              "workflow-platform"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -730,12 +1512,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic tool for orchestrating machine-learning/high performance/quantum-computing workflows in heterogeneous compute environments.",
+            "homepage": "https://www.covalent.xyz",
             "id": 424247027,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T17:10:19Z",
+            "open_issues": 103,
             "owner": "AgnostiqHQ",
             "repo": "covalent",
-            "stars": 869
+            "stars": 869,
+            "topics": [
+              "covalent",
+              "data-pipeline",
+              "data-science",
+              "deep-learning",
+              "hacktoberfest",
+              "hpc",
+              "hpc-applications",
+              "machine-learning",
+              "machinelearning",
+              "machinelearning-python",
+              "orchestration",
+              "parallelization",
+              "pipelines",
+              "python",
+              "quantum",
+              "quantum-computing",
+              "quantum-machine-learning",
+              "workflow",
+              "workflow-automation",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -746,12 +1554,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow Automation Engine",
+            "homepage": "https://wexflow.github.io",
             "id": 559348325,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:29:16Z",
+            "open_issues": 0,
             "owner": "aelassas",
             "repo": "wexflow",
-            "stars": 841
+            "stars": 841,
+            "topics": [
+              "automation",
+              "cross-platform",
+              "csharp",
+              "dotnet",
+              "etl",
+              "scheduler",
+              "wexflow",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -762,12 +1585,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.",
+            "homepage": null,
             "id": 644651253,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-21T21:16:57Z",
+            "open_issues": 20,
             "owner": "runabol",
             "repo": "tork",
-            "stars": 814
+            "stars": 814,
+            "topics": [
+              "background-jobs",
+              "distributed",
+              "docker",
+              "go",
+              "golang",
+              "job-queue",
+              "podman",
+              "scheduler",
+              "task-queue",
+              "work-queue",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -778,12 +1618,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mirror of Apache Oozie",
+            "homepage": null,
             "id": 2383782,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-27T08:38:13Z",
+            "open_issues": 49,
             "owner": "apache",
             "repo": "oozie",
-            "stars": 729
+            "stars": 729,
+            "topics": [
+              "big-data",
+              "java",
+              "javascript",
+              "oozie"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -794,12 +1644,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iWF is a Workflow-As-Code microservice orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes",
+            "homepage": null,
             "id": 518169634,
             "language": "Go",
-            "last_commit": "2026-07-12T22:09:43Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:35:58Z",
+            "open_issues": 79,
             "owner": "indeedeng",
             "repo": "iwf",
-            "stars": 656
+            "stars": 656,
+            "topics": [
+              "distributed-process",
+              "distributed-system",
+              "distributed-transactions",
+              "durable-timer",
+              "golang",
+              "java",
+              "message-queue",
+              "microservice",
+              "orchestration",
+              "orchestrator",
+              "persistence",
+              "process",
+              "python",
+              "timer",
+              "workflow",
+              "workflow-as-code",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -810,12 +1683,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsl - a Python parallel scripting library",
+            "homepage": "http://parsl-project.org",
             "id": 71482397,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T22:54:57Z",
+            "open_issues": 474,
             "owner": "Parsl",
             "repo": "parsl",
-            "stars": 625
+            "stars": 626,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -826,12 +1706,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository for the AiiDA code",
+            "homepage": "https://aiida-core.readthedocs.io",
             "id": 77234579,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T10:18:30Z",
+            "open_issues": 674,
             "owner": "aiidateam",
             "repo": "aiida-core",
-            "stars": 579
+            "stars": 579,
+            "topics": [
+              "aiida",
+              "computational-science",
+              "data-provenance",
+              "database",
+              "provenance",
+              "scheduler",
+              "ssh",
+              "workflow",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -842,12 +1738,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "piper - a distributed workflow engine",
+            "homepage": null,
             "id": 60993650,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-09T02:18:16Z",
+            "open_issues": 9,
             "owner": "runabol",
             "repo": "piper",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "apache2",
+              "ffmpeg",
+              "java",
+              "pipeline",
+              "springboot",
+              "video",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -858,12 +1767,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, and production changes, with auditable evidence.",
+            "homepage": null,
             "id": 1132275655,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T16:33:13Z",
+            "open_issues": 20,
             "owner": "cordum-io",
             "repo": "cordum",
-            "stars": 498
+            "stars": 498,
+            "topics": [
+              "agent-framework",
+              "agentic-ai",
+              "ai-agent",
+              "ai-governance",
+              "ai-orchestration",
+              "ai-safety",
+              "audit-trail",
+              "autonomous-agents",
+              "control-plane",
+              "devops",
+              "governance",
+              "human-in-the-loop",
+              "llm",
+              "llm-agents",
+              "mcp",
+              "model-context-protocol",
+              "nats",
+              "policy-engine",
+              "safety-kernel",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -874,12 +1809,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple but powerful DAG scheduler and dashboard",
+            "homepage": null,
             "id": 249262734,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-02-20T10:35:47Z",
+            "open_issues": 11,
             "owner": "fieldryand",
             "repo": "goflow",
-            "stars": 483
+            "stars": 483,
+            "topics": [
+              "airflow",
+              "dashboard",
+              "directed-acyclic-graph",
+              "go",
+              "job-scheduler",
+              "schedule",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -890,12 +1838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Fireworks Workflow Management Repo.",
+            "homepage": "https://materialsproject.github.io/fireworks",
             "id": 7507548,
             "language": "Python",
-            "last_commit": "2026-08-11T17:06:26Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:20:39Z",
+            "open_issues": 74,
             "owner": "materialsproject",
             "repo": "fireworks",
-            "stars": 425
+            "stars": 425,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -906,12 +1859,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source platform for managing and analyzing biomedical big data",
+            "homepage": "https://arvados.org",
             "id": 9359429,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:52:42Z",
+            "open_issues": 40,
             "owner": "arvados",
             "repo": "arvados",
-            "stars": 420
+            "stars": 420,
+            "topics": [
+              "arvados",
+              "aws",
+              "azure",
+              "bigdata",
+              "bioinformatics",
+              "cloud",
+              "cluster",
+              "cwl",
+              "docker",
+              "gcp",
+              "genomics",
+              "go",
+              "python",
+              "ruby",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -922,12 +1897,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source technology for business process management",
+            "homepage": "http://www.imixs.org/",
             "id": 15841047,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:32:29Z",
+            "open_issues": 39,
             "owner": "imixs",
             "repo": "imixs-workflow",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "ai-agents",
+              "bpmn",
+              "bpmn-engine",
+              "bpmn-model",
+              "java",
+              "javascript",
+              "pluggable-architecture",
+              "workflow-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -938,12 +1928,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions",
+            "homepage": null,
             "id": 97091215,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-30T20:18:26Z",
+            "open_issues": 62,
             "owner": "fission",
             "repo": "fission-workflows",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -954,12 +1949,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cylc: a general purpose workflow engine with a gift for cycling",
+            "homepage": "https://cylc.github.io",
             "id": 1836229,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T12:03:46Z",
+            "open_issues": 622,
             "owner": "cylc",
             "repo": "cylc-flow",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "cycling-workflows",
+              "cylc",
+              "job-scheduler",
+              "metascheduler",
+              "python",
+              "scheduler",
+              "scheduling",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -970,12 +1982,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PLynx is a domain agnostic platform for managing reproducible experiments and data-oriented workflows.",
+            "homepage": "https://plynx.com",
             "id": 111642831,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-22T03:59:02Z",
+            "open_issues": 27,
             "owner": "plynx-team",
             "repo": "plynx",
-            "stars": 314
+            "stars": 314,
+            "topics": [
+              "collaboration",
+              "data-science",
+              "distributed",
+              "experiments",
+              "machine-learning",
+              "plynx",
+              "reproducibility",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -986,12 +2012,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Container-native task automation engine.",
+            "homepage": "https://getpopper.io",
             "id": 43576029,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-29T22:02:27Z",
+            "open_issues": 23,
             "owner": "getpopper",
             "repo": "popper",
-            "stars": 310
+            "stars": 310,
+            "topics": [
+              "automation-engine",
+              "cli",
+              "containers",
+              "devops",
+              "docker",
+              "podman",
+              "reproducibility",
+              "sciops",
+              "singularity",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1002,12 +2044,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow Service for OpenStack. Mirror of code maintained at opendev.org.",
+            "homepage": "https://opendev.org/openstack/mistral",
             "id": 13968255,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:58:03Z",
+            "open_issues": 0,
             "owner": "openstack",
             "repo": "mistral",
-            "stars": 309
+            "stars": 309,
+            "topics": [
+              "service"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1018,12 +2067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "COPPER - a high performance Java workflow engine",
+            "homepage": "http://www.copper-engine.org/",
             "id": 15008570,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T06:16:25Z",
+            "open_issues": 33,
             "owner": "copper-engine",
             "repo": "copper-engine",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1034,12 +2088,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a workflow engine",
+            "homepage": "https://github.com/floraison/flor#readme",
             "id": 45541335,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-22T04:32:54Z",
+            "open_issues": 2,
             "owner": "floraison",
             "repo": "flor",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "bpm",
+              "flor",
+              "ruby",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1050,12 +2115,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent traces you can run, not just read.",
+            "homepage": "https://kitaru.ai",
             "id": 1173563711,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:12:50Z",
+            "open_issues": 20,
             "owner": "zenml-io",
             "repo": "kitaru",
-            "stars": 269
+            "stars": 269,
+            "topics": [
+              "agent",
+              "agent-orchestration",
+              "agentic-ai",
+              "agents",
+              "ai-agents",
+              "checkpoints",
+              "durable-execution",
+              "llm",
+              "mcp",
+              "mlops",
+              "observability",
+              "pydantic",
+              "pydantic-ai",
+              "python",
+              "replay"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1066,12 +2152,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pegasus Workflow Management System - Automate, recover, and debug scientific computations.",
+            "homepage": "https://pegasus.isi.edu",
             "id": 8016431,
             "language": "Java",
-            "last_commit": "2026-08-28T04:24:54Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:26:36Z",
+            "open_issues": 26,
             "owner": "pegasus-isi",
             "repo": "pegasus",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "bioinformatics",
+              "distributed-systems",
+              "hpc",
+              "workflow",
+              "workflow-management-system"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1082,12 +2179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudSlang Language, CLI and Builder",
+            "homepage": "http://cloudslang.io",
             "id": 28305425,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:30:51Z",
+            "open_issues": 111,
             "owner": "CloudSlang",
             "repo": "cloud-slang",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1098,12 +2200,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and reliable workflow engine, written in Ruby",
+            "homepage": null,
             "id": 55865304,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-06-05T00:59:04Z",
+            "open_issues": 4,
             "owner": "linkyndy",
             "repo": "pallets",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "ruby",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1114,12 +2225,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Petri Net Workflow Engine for Ruby.",
+            "homepage": "https://hooopo.gitbook.io/petri-flow/",
             "id": 238289067,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-03-09T02:14:12Z",
+            "open_issues": 10,
             "owner": "hooopo",
             "repo": "petri_flow",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "petri-net",
+              "petrinet",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1130,12 +2251,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
+            "homepage": "https://taskade.com/blog/mcp",
             "id": 990355747,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T18:56:13Z",
+            "open_issues": 11,
             "owner": "taskade",
             "repo": "mcp",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "autonomous-agents",
+              "integrations",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "model-context-protocol-server",
+              "model-context-protocol-servers",
+              "no-code-automation",
+              "openapi",
+              "openapi-codegen",
+              "openapi3",
+              "productivity",
+              "taskade",
+              "workflow",
+              "workflow-automation",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1146,12 +2293,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open core .NET job orchestrator that we've been missing",
+            "homepage": "https://www.didact.dev",
             "id": 711306246,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T23:04:26Z",
+            "open_issues": 0,
             "owner": "DidactHQ",
             "repo": "didact",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "background-jobs",
+              "background-service",
+              "csharp",
+              "data-engineering",
+              "data-orchestrator",
+              "data-pipelines",
+              "dotnet",
+              "orchestration",
+              "orchestration-framework",
+              "orchestrator",
+              "pipelines",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1162,12 +2328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language and framework for high performance computational pipelines.",
+            "homepage": "http://martian-lang.org",
             "id": 94939494,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-13T19:09:18Z",
+            "open_issues": 8,
             "owner": "martian-lang",
             "repo": "martian",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1178,12 +2349,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C# framework to build, visualize and execute event-driven workflow",
+            "homepage": "https://littlelittlecloud.github.io/StepWise/",
             "id": 854892959,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-05-10T16:34:57Z",
+            "open_issues": 13,
             "owner": "LittleLittleCloud",
             "repo": "StepWise",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "agentic",
+              "dotnet",
+              "llm",
+              "nextjs",
+              "shadcn-ui",
+              "typescript",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1194,12 +2379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another Workflow Language",
+            "homepage": "http://www.yawlfoundation.org",
             "id": 39814465,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-14T04:23:56Z",
+            "open_issues": 15,
             "owner": "yawlfoundation",
             "repo": "yawl",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1210,12 +2400,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ForML - A development framework and MLOps platform for the lifecycle management of data science projects",
+            "homepage": "http://forml.io",
             "id": 310066051,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-29T10:58:22Z",
+            "open_issues": 0,
             "owner": "formlio",
             "repo": "forml",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "ai",
+              "data-science",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "portability",
+              "python",
+              "reproducibility"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         }
@@ -1232,12 +2436,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. ",
+            "homepage": "https://www.activiti.org",
             "id": 5793738,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:48:36Z",
+            "open_issues": 608,
             "owner": "Activiti",
             "repo": "Activiti",
-            "stars": 10539
+            "stars": 10539,
+            "topics": [
+              "activiti",
+              "bpm",
+              "bpmn",
+              "business-process",
+              "cloud",
+              "hxps",
+              "java",
+              "microservices",
+              "product-activiti",
+              "spring"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1248,12 +2468,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.",
+            "homepage": "https://www.flowable.org",
             "id": 70780002,
             "language": "Java",
-            "last_commit": "2026-08-28T08:42:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:43:50Z",
+            "open_issues": 406,
             "owner": "flowable",
             "repo": "flowable-engine",
-            "stars": 9499
+            "stars": 9500,
+            "topics": [
+              "bpmn",
+              "java",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1264,12 +2494,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Business Process Management (BPM) Suite",
+            "homepage": "http://www.jbpm.org",
             "id": 930571,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-01T12:55:35Z",
+            "open_issues": 44,
             "owner": "kiegroup",
             "repo": "jbpm",
-            "stars": 1739
+            "stars": 1739,
+            "topics": [
+              "bpm",
+              "bpmn",
+              "bpmn2",
+              "business-process",
+              "case-management",
+              "hacktoberfest",
+              "jbpm",
+              "opensource",
+              "process-engine",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1280,12 +2526,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy, execute, manage process-based applications made with Bonita studio or through Engine APIs",
+            "homepage": null,
             "id": 11125081,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-27T13:34:49Z",
+            "open_issues": 1,
             "owner": "bonitasoft",
             "repo": "bonita-engine",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "bpm",
+              "bpm-engine",
+              "bpmn",
+              "delivery-central",
+              "engine",
+              "java",
+              "lifecycle-platform",
+              "published-partial",
+              "subtree"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         }
@@ -1302,12 +2563,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+            "homepage": null,
             "id": 5888353,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T11:15:46Z",
+            "open_issues": 170,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18769
+            "stars": 18768,
+            "topics": [
+              "hadoop",
+              "luigi",
+              "orchestration-framework",
+              "python",
+              "scheduling"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1318,12 +2590,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Parallel Computing and Asynchronous Networking Framework",
+            "homepage": null,
             "id": 283410102,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T10:20:51Z",
+            "open_issues": 27,
             "owner": "sogou",
             "repo": "workflow",
-            "stars": 14418
+            "stars": 14418,
+            "topics": [
+              "consul",
+              "dag",
+              "http",
+              "kafka",
+              "mysql",
+              "redis",
+              "sogou",
+              "tasking"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1334,12 +2620,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight workflow engine for .NET Standard",
+            "homepage": null,
             "id": 73864802,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-22T18:10:17Z",
+            "open_issues": 145,
             "owner": "danielgerlag",
             "repo": "workflow-core",
-            "stars": 5919
+            "stars": 5919,
+            "topics": [
+              "hacktoberfest",
+              "saga",
+              "saga-transactions",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1350,12 +2647,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Camunda 7 CE is End of Life (EoL). Please check out Camunda 8 instead (https://github.com/camunda/camunda) or read about Camunda 7 Enterprise End of Life (https://camunda.com/blog/2025/02/camunda-7-enterprise-end-of-life-extension/) – Camunda 7 CE was a flexible framework for workflow and decision automation using BPMN and DMN.",
+            "homepage": "https://camunda.com/",
             "id": 7420937,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T07:40:27Z",
+            "open_issues": 0,
             "owner": "camunda",
             "repo": "camunda-bpm-platform",
-            "stars": 4270
+            "stars": 4270,
+            "topics": [
+              "bpm",
+              "bpmn",
+              "camunda-bpm-platform",
+              "camunda-engine",
+              "cmmn",
+              "dmn",
+              "end-of-life",
+              "eol",
+              "java",
+              "process-engine",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1366,12 +2680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL",
+            "homepage": "https://oban.pro",
             "id": 172532184,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:34:24Z",
+            "open_issues": 1,
             "owner": "oban-bg",
             "repo": "oban",
-            "stars": 3958
+            "stars": 3958,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1382,12 +2701,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reusable workflow library for Django",
+            "homepage": "http://viewflow.io",
             "id": 12726564,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-09T10:27:03Z",
+            "open_issues": 16,
             "owner": "viewflow",
             "repo": "viewflow",
-            "stars": 2874
+            "stars": 2875,
+            "topics": [
+              "bpmn",
+              "django",
+              "process-engine",
+              "python",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1398,12 +2729,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful workflow engine implemented in pure Python",
+            "homepage": null,
             "id": 448831,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-10T16:11:05Z",
+            "open_issues": 8,
             "owner": "sartography",
             "repo": "SpiffWorkflow",
-            "stars": 1913
+            "stars": 1913,
+            "topics": [
+              "bpmn",
+              "bpmn-engine",
+              "python",
+              "spiff-workflow",
+              "workflow",
+              "workflow-specification",
+              "workflowpatterns"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1414,12 +2758,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.",
+            "homepage": null,
             "id": 24898533,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:46:42Z",
+            "open_issues": 226,
             "owner": "Azure",
             "repo": "durabletask",
-            "stars": 1730
+            "stars": 1730,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1430,12 +2779,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database-Backed Durable TypeScript Workflows",
+            "homepage": "https://docs.dbos.dev",
             "id": 665638731,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T23:42:50Z",
+            "open_issues": 4,
             "owner": "dbos-inc",
             "repo": "dbos-transact-ts",
-            "stars": 1332
+            "stars": 1332,
+            "topics": [
+              "agentic-workflow",
+              "cronjob-scheduler",
+              "dbos",
+              "durable-execution",
+              "durable-workflows",
+              "microservices-orchestration",
+              "orchestration",
+              "postgresql",
+              "typescript",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1446,12 +2812,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WF runtime ported to work on .NET 6",
+            "homepage": null,
             "id": 66589457,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-06T12:38:37Z",
+            "open_issues": 38,
             "owner": "UiPath",
             "repo": "CoreWF",
-            "stars": 1179
+            "stars": 1179,
+            "topics": [
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1462,12 +2835,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust, flexible and resource-efficient pipelines using Go and the commandline",
+            "homepage": "https://scipipe.org",
             "id": 31828678,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-08-14T01:44:15Z",
+            "open_issues": 57,
             "owner": "scipipe",
             "repo": "scipipe",
-            "stars": 1109
+            "stars": 1109,
+            "topics": [
+              "bioinformatics",
+              "bioinformatics-pipeline",
+              "cheminformatics",
+              "dataflow",
+              "fbp",
+              "go",
+              "golang",
+              "pipeline",
+              "scientific-workflows",
+              "scipipe",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1478,12 +2869,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service).",
+            "homepage": "https://workflowengine.io",
             "id": 28509141,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-08-18T15:16:18Z",
+            "open_issues": 68,
             "owner": "optimajet",
             "repo": "WorkflowEngine.NET",
-            "stars": 989
+            "stars": 989,
+            "topics": [
+              "csharp",
+              "engine",
+              "mongo",
+              "mssql",
+              "mysql",
+              "optimajet",
+              "oracle",
+              "postgresql",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1494,12 +2900,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Django workflow library that supports on the fly changes ⛵",
+            "homepage": null,
             "id": 39556714,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-05-05T21:57:14Z",
+            "open_issues": 35,
             "owner": "javrasya",
             "repo": "django-river",
-            "stars": 747
+            "stars": 747,
+            "topics": [
+              "django",
+              "python",
+              "python-2",
+              "python-3",
+              "state-machine",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1510,12 +2929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure go General-purpose Task-parallel Programming Framework",
+            "homepage": "https://deepwiki.com/noneback/go-taskflow",
             "id": 767894250,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T02:31:21Z",
+            "open_issues": 0,
             "owner": "noneback",
             "repo": "go-taskflow",
-            "stars": 637
+            "stars": 637,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1526,12 +2950,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides tools for managing a workflow or finite state machine",
+            "homepage": "https://symfony.com/workflow",
             "id": 61815898,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-14T13:23:32Z",
+            "open_issues": 0,
             "owner": "symfony",
             "repo": "workflow",
-            "stars": 630
+            "stars": 630,
+            "topics": [
+              "component",
+              "petrinet",
+              "php",
+              "place",
+              "state",
+              "statemachine",
+              "symfony",
+              "symfony-component",
+              "transition",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1542,12 +2982,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embeddable JVM-based workflow engine with high availability, fault tolerance, and support for multiple databases. Additional libraries are provided for visualization and REST API.",
+            "homepage": null,
             "id": 16453755,
             "language": "Java",
-            "last_commit": "2026-08-26T10:43:08Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:43:45Z",
+            "open_issues": 25,
             "owner": "NitorCreations",
             "repo": "nflow",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "java",
+              "nflow",
+              "orchestrating-processes",
+              "saga-pattern",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1558,12 +3011,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Java based orchestration engine",
+            "homepage": "https://github.com/americanexpress/unify-flowret",
             "id": 296371675,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T20:56:21Z",
+            "open_issues": 0,
             "owner": "americanexpress",
             "repo": "unify-flowret",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "bpm",
+              "java",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1574,12 +3039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatiko workflow engine to build services and functions",
+            "homepage": "https://automatiko.io",
             "id": 332492696,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T15:41:34Z",
+            "open_issues": 3,
             "owner": "automatiko-io",
             "repo": "automatiko-engine",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1590,12 +3060,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Python-based distributed workflow engine",
+            "homepage": "https://wayfair-incubator.github.io/dagger/latest",
             "id": 545717935,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T06:00:30Z",
+            "open_issues": 3,
             "owner": "wayfair-incubator",
             "repo": "dagger",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "aerospike",
+              "asyncio",
+              "faust-streaming",
+              "kafka",
+              "orchestrator",
+              "python",
+              "rocksdb",
+              "scalable",
+              "state-machine",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1606,12 +3092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "distributed, light-weight java workflow engine for a microservice architecture",
+            "homepage": null,
             "id": 152661807,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-11T00:54:46Z",
+            "open_issues": 11,
             "owner": "LiveRamp",
             "repo": "captain",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         },
@@ -1622,12 +3113,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is a fork of apache/incubator-kie-kogito-runtimes. Please use upstream repository for development. ",
+            "homepage": "http://kogito.kie.org",
             "id": 730141202,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:34:36Z",
+            "open_issues": 8,
             "owner": "kiegroup",
             "repo": "kogito-runtimes",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T19:35:53.608Z"
         }
@@ -1636,15 +3134,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:35:53.608Z",
+    "last_updated": "2026-08-29T04:16:20.707Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome open source workflow engines",
+      "homepage": null,
       "id": 35958325,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-04-06T08:20:52Z",
+      "open_issues": 71,
       "owner": "meirwah",
       "repo": "awesome-workflow-engines",
-      "stars": 7916
+      "stars": 7916,
+      "topics": []
     },
     "original_repository_sha": "52df83bc521323172eb0e5982a347c95d04fbf89",
     "enhanced_repository": "enhansome/enhansome-workflow-engines",
